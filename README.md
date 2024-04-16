@@ -117,6 +117,19 @@
 
 ---
 
+
+## Laravel 11 CRUD - auth by passport
+
+- Register API: Verb:POST, URL:http://localhost/api/register
+- Login API: Verb:POST, URL:http://localhost/api/login
+- Product List API: Verb:GET, URL:http://localhost/api/products
+- Product Create API: Verb:POST, URL:http://localhost/api/products
+- Product Show API: Verb:GET, URL:http://localhost/api/products/{id}
+- Product Update API: Verb:PUT, URL:http://localhost:8000/api/products/{id}
+- Product Delete API: Verb:DELETE, URL:http://localhost:8000/api/products/{id}
+
+
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
